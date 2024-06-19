@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    background-color:burlywood;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    text-align: center;
+}
+button{
+    width: 150px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 4px;
+    box-shadow: 10px 10px 5px 5px black;
+    font-size: 22px;
+    font-family: cursive;
+    font-weight: bold;
+}
+h2{
+    font-weight: bold;
+    font-size: 36px;
+    font-family: cursive;
+    letter-spacing: 2px;
+}
+
+#ins1{
+    background-image: url("https://th.bing.com/th?id=OIP.ZW7JpSu7kNhkk0V3gxhqlwHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+#ins2{
+    background-image: url("https://media.musiciansfriend.com/is/image/MMGS7/Traditional-Bass-Drum-28-x-16-3-hooks-28-x-16-in.-Sapphire-Blue/501488000927000-00-1600x1600.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+#ins3{
+    background-image: url("https://th.bing.com/th/id/OIP.RkCaSMYThR97rz-iC1T_ggHaE8?w=284&h=190&c=7&r=0&o=5&dpr=1.3&pid=1.7");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+#ins4{
+    background-image:url("https://th.bing.com/th?id=OIP.FJPAD_cyQr_sHimKGi46uwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2");
+    background-size: cover;
+}
